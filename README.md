@@ -1,11 +1,12 @@
+[中文](README_CN.md)
+
 # Fark
 
-Windows 平台 ARK（Anti-Rootkit）工具。
+An ARK (Anti-Rootkit) tool for Windows with many features. It’s under active development—feel free to try it out!
 
 ![Fark Logo](images/fark-logo.png)
 
-## 功能概览
+## UI Preview
 
-## 界面预览
+![Screenshot](images/fark-ch.png)
 
-![功能截图](images/fark-1.png)
